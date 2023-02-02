@@ -1,4 +1,4 @@
-#  Website
+# Shoe Website
 Fully responsive architect website using html, css and javascript.
 
 ## Languages
