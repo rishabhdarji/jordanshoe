@@ -1,6 +1,6 @@
 # Shoe Website
 Fully responsive architect website using html, css and javascript.
-
+https://rishabhdarji.github.io/jordanshoe/
 ## Languages
 - HTML5
 - CSS3
