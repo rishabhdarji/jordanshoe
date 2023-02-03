@@ -8,7 +8,7 @@ https://rishabhdarji.github.io/jordanshoe/
 
 ## Screenshot
 
-![Screenshot (302)](https://user-images.githubusercontent.com/93200960/215093326-13249bd8-2956-48cc-b310-dd24bff344f4.png)
+![Screenshot (302)](https://github.com/rishabhdarji/jordanshoe/blob/main/images/jor.png)
 
 
 
