@@ -628,9 +628,9 @@ html {
 }
 
 .contact-left {
-  width: 35%;
+  width: 90%;
   background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9)),
-    url(images/contact-bg.jpg) center no-repeat;
+    url(images/red.jpg) center no-repeat;
   background-size: cover;
 }
 
